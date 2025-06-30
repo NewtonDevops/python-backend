@@ -8,9 +8,11 @@ It returns a JSON greeting when accessed on the root path
 
 ## 🐳 Step 1: Build the Docker Image Locally
 
-Clone this code by running 
+Clone code and checkout to the project directory
+
 ```bash
-git clone 
+git clone https://github.com/NewtonDevops/python-backend.git
+cd python-backend
 ```
 
 Run this from the project root directory:
