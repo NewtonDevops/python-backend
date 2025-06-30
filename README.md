@@ -8,10 +8,15 @@ It returns a JSON greeting when accessed on the root path
 
 ## 🐳 Step 1: Build the Docker Image Locally
 
+Clone this code by running 
+```bash
+git clone 
+```
+
 Run this from the project root directory:
 
 ```bash
-docker build -t python-backend:1.0 .
+docker build -t python-backend .
 ```
 
 ## 🧪 Step 2: Test the Docker Image Locally
